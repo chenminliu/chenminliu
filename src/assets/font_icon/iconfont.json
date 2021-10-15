@@ -1,0 +1,37 @@
+{
+  "id": "2865951",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "1345876",
+      "name": "个人信息",
+      "font_class": "geren",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "4329375",
+      "name": "表单管理",
+      "font_class": "biaodanguanli",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4779612",
+      "name": "表单组件-表格",
+      "font_class": "biaodanzujian-biaoge",
+      "unicode": "ec15",
+      "unicode_decimal": 60437
+    }
+  ]
+}
